@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ShipRank AI</title>
+    <link>https://beenballin29.github.io/shiprank/</link>
+    <description>Outcome rankings for AI tools. Scores stay empty until a test is published.</description>
+    <atom:link href="https://beenballin29.github.io/shiprank/rss.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <item>
+      <title>Lovable: Lovable combines Cloud and AI balances into credits</title>
+      <link>https://beenballin29.github.io/shiprank/tools/lovable/</link>
+      <guid isPermaLink="true">https://beenballin29.github.io/shiprank/tools/lovable/</guid>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Lovable's June 13, 2026 post said plan price, the cost of credits, and the daily free build credits were not changing, and that purchased Cloud and AI balances would convert into Lovable credits.</description>
+    </item>
+    <item>
+      <title>Windsurf: Windsurf becomes Devin Desktop</title>
+      <link>https://beenballin29.github.io/shiprank/tools/windsurf/</link>
+      <guid isPermaLink="true">https://beenballin29.github.io/shiprank/tools/windsurf/</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Cognition's Devin Desktop FAQ says that on June 2, 2026, Windsurf becomes Devin Desktop: the same IDE, with the Agent Command Center as the primary view. The FAQ says plan pricing does not change in that rename.</description>
+    </item>
+    <item>
+      <title>GitHub Copilot: GitHub Copilot usage-based billing date</title>
+      <link>https://beenballin29.github.io/shiprank/tools/github-copilot/</link>
+      <guid isPermaLink="true">https://beenballin29.github.io/shiprank/tools/github-copilot/</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+      <description>GitHub's blog announced a switch from premium requests to GitHub AI Credits, with June 1, 2026 as the transition date, and said base seat prices were not changing in that announcement. Current credit amounts are on the Copilot plan docs, linked from the tool record.</description>
+    </item>
+    <item>
+      <title>Windsurf: Windsurf replaces credits with quotas</title>
+      <link>https://beenballin29.github.io/shiprank/tools/windsurf/</link>
+      <guid isPermaLink="true">https://beenballin29.github.io/shiprank/tools/windsurf/</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
+      <description>Cognition's March 18, 2026 post said Free, Pro at $20/month, Teams at $40 per seat, and a new Max plan at $200/month would take effect March 19, 2026. The Teams price on devin.ai/pricing was different when ShipRank checked it on 2026-11-08. Use the tool record for the later figure.</description>
+    </item>
+    <item>
+      <title>Replit: Replit announces Pro at $100 a month</title>
+      <link>https://beenballin29.github.io/shiprank/tools/replit/</link>
+      <guid isPermaLink="true">https://beenballin29.github.io/shiprank/tools/replit/</guid>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+      <description>Replit's blog post, published February 24, 2026 and marked updated September 30, 2026, announced a Pro plan at $100/month and a Core price of $20/month, down from $25. This feed records the post. It is not a ShipRank test of Agent.</description>
+    </item>
+  </channel>
+</rss>

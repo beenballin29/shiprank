@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://beenballin29.github.io/shiprank/sitemap.xml
